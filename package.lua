@@ -1,6 +1,6 @@
   return {
-    name = "james2doyle/lit-escape-html",
-    version = "0.0.1",
+    name = "james2doyle/escape-html",
+    version = "0.0.2",
     description = "Sanitize HTML",
     tags = { "html", "sanitize", "clean", "escape", "filter" },
     license = "MIT",
